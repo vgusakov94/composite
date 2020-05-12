@@ -1,0 +1,67 @@
+
+17:40:50.743 [main] INFO  TextCreator:38  - File successfully read
+17:40:50.756 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:40:50.783 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:40:50.790 [main] INFO  TextCreator:38  - File successfully read
+17:40:50.792 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:40:50.793 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:40:50.795 [main] INFO  TextCreator:38  - File successfully read
+17:40:50.797 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:40:50.798 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:40:50.800 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:40:50.801 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:40:50.803 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:40:50.804 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:41:35.518 [main] INFO  TextCreator:38  - File successfully read
+17:41:35.527 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:41:35.536 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:41:46.974 [main] INFO  TextCreator:56  - Expression calculated: 6.0
+17:41:46.990 [main] INFO  TextCreator:56  - Expression calculated: 11.0
+17:42:00.717 [main] INFO  TextCreator:103  - Expression converted: 5 3 + 2 * 1 18 3 / * -
+17:42:00.732 [main] INFO  TextCreator:103  - Expression converted: 71 2 4 * 3 2 1 2 / 2 * - 2 * * 10 2 / - - 6
+17:42:00.734 [main] INFO  TextCreator:103  - Expression converted: 5 3 2 * +
+17:42:41.253 [main] INFO  TextCreator:38  - File successfully read
+17:57:42.233 [main] INFO  TextCreator:38  - File successfully read
+17:57:42.248 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:42.305 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:57:42.321 [main] INFO  TextCreator:38  - File successfully read
+17:57:42.333 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:42.335 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:57:42.337 [main] INFO  TextCreator:38  - File successfully read
+17:57:42.341 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:42.343 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:57:42.344 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:42.347 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:57:42.348 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:42.349 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:57:53.212 [main] INFO  TextCreator:38  - File successfully read
+17:57:53.220 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+17:57:53.233 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+17:58:02.004 [main] INFO  TextCreator:56  - Expression calculated: 6.0
+17:58:02.025 [main] INFO  TextCreator:56  - Expression calculated: 11.0
+17:58:13.855 [main] INFO  TextCreator:38  - File successfully read
+17:58:24.268 [main] INFO  TextCreator:103  - Expression converted: 5 3 + 2 * 1 18 3 / * -
+17:58:24.285 [main] INFO  TextCreator:103  - Expression converted: 71 2 4 * 3 2 1 2 / 2 * - 2 * * 10 2 / - - 6
+17:58:24.291 [main] INFO  TextCreator:103  - Expression converted: 5 3 2 * +
+18:06:04.048 [main] INFO  TextCreator:38  - File successfully read
+18:06:04.068 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:04.087 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:04.107 [main] INFO  TextCreator:38  - File successfully read
+18:06:04.112 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:04.120 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:04.125 [main] INFO  TextCreator:38  - File successfully read
+18:06:04.132 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:04.135 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:04.182 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:04.185 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:04.186 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:04.188 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:15.473 [main] INFO  TextCreator:38  - File successfully read
+18:06:15.519 [main] INFO  TextCreator:103  - Expression converted: 13 4 +
+18:06:15.554 [main] INFO  TextCreator:56  - Expression calculated: 17.0
+18:06:26.528 [main] INFO  TextCreator:56  - Expression calculated: 6.0
+18:06:26.554 [main] INFO  TextCreator:56  - Expression calculated: 11.0
+18:06:37.703 [main] INFO  TextCreator:38  - File successfully read
+18:06:47.733 [main] INFO  TextCreator:103  - Expression converted: 5 3 + 2 * 1 18 3 / * -
+18:06:47.746 [main] INFO  TextCreator:103  - Expression converted: 71 2 4 * 3 2 1 2 / 2 * - 2 * * 10 2 / - - 6
+18:06:47.752 [main] INFO  TextCreator:103  - Expression converted: 5 3 2 * +
